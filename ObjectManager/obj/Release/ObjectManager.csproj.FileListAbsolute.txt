@@ -1,0 +1,8 @@
+C:\Users\mewit\Desktop\Programming\MemoryReader\MemoryReader\bin\Release\ObjectManager.exe.config
+C:\Users\mewit\Desktop\Programming\MemoryReader\MemoryReader\bin\Release\ObjectManager.exe
+C:\Users\mewit\Desktop\Programming\MemoryReader\MemoryReader\bin\Release\ObjectManager.pdb
+C:\Users\mewit\Desktop\Programming\MemoryReader\MemoryReader\obj\Release\ObjectManager.ObjManager.resources
+C:\Users\mewit\Desktop\Programming\MemoryReader\MemoryReader\obj\Release\ObjectManager.Properties.Resources.resources
+C:\Users\mewit\Desktop\Programming\MemoryReader\MemoryReader\obj\Release\ObjectManager.csproj.GenerateResource.Cache
+C:\Users\mewit\Desktop\Programming\MemoryReader\MemoryReader\obj\Release\ObjectManager.exe
+C:\Users\mewit\Desktop\Programming\MemoryReader\MemoryReader\obj\Release\ObjectManager.pdb

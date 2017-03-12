@@ -1,0 +1,9 @@
+C:\Users\mewit\Desktop\Programming\MemoryReader\ObjectManager\bin\Debug\ObjectManager.exe.config
+C:\Users\mewit\Desktop\Programming\MemoryReader\ObjectManager\bin\Debug\ObjectManager.exe
+C:\Users\mewit\Desktop\Programming\MemoryReader\ObjectManager\bin\Debug\ObjectManager.pdb
+C:\Users\mewit\Desktop\Programming\MemoryReader\ObjectManager\obj\Debug\ObjectManager.csprojResolveAssemblyReference.cache
+C:\Users\mewit\Desktop\Programming\MemoryReader\ObjectManager\obj\Debug\ObjectManager.ObjManager.resources
+C:\Users\mewit\Desktop\Programming\MemoryReader\ObjectManager\obj\Debug\ObjectManager.Properties.Resources.resources
+C:\Users\mewit\Desktop\Programming\MemoryReader\ObjectManager\obj\Debug\ObjectManager.csproj.GenerateResource.Cache
+C:\Users\mewit\Desktop\Programming\MemoryReader\ObjectManager\obj\Debug\ObjectManager.exe
+C:\Users\mewit\Desktop\Programming\MemoryReader\ObjectManager\obj\Debug\ObjectManager.pdb
