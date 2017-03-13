@@ -101,9 +101,9 @@
             this.label3.Location = new System.Drawing.Point(18, 172);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(157, 20);
+            this.label3.Size = new System.Drawing.Size(198, 20);
             this.label3.TabIndex = 5;
-            this.label3.Text = "First Object Address:";
+            this.label3.Text = "First Object Base Address:";
             // 
             // textBox3
             // 

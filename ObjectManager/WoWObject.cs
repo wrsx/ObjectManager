@@ -9,6 +9,7 @@ namespace ObjectManager
     class WoWObject
     {
         // general properties
+        public ulong Guid = 0;
         public uint BaseAddress = 0;
         public uint UnitFieldsAddress = 0;
 

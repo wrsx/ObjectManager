@@ -18,11 +18,13 @@ namespace ObjectManager
         {
             CurMgrPointer = 0x00741414,
             FirstObject = 0xAC,
+            NextObject = 0x3c,
         }
 
         internal enum WoWObject
         {
             DataPTR = 0x8,
+            Guid = 0x30,
         }
     }
 }
