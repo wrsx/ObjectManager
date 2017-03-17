@@ -51,10 +51,19 @@ namespace ObjectManager
         {
             init();
             textBox1.Text = "0x" + baseAddress.ToString("X");
-            textBox2.Text = "0x" + clientConnection.ToString("X");
-            textBox3.Text = "0x" + firstObject.ToString("X");
-            textBox4.Text = localPlayer.Guid.ToString();
-            textBox5.Text = "0x" + localPlayer.BaseAddress.ToString("X");
+
+			dataGridView1.Rows[0].Cells[0].Value = localPlayer.MaxHealth.ToString(); //guid
+			dataGridView1.Rows[0].Cells[1].Value = "n/a"; //obj name 
+			dataGridView1.Rows[0].Cells[2].Value = "0x" + localPlayer.BaseAddress.ToString("X"); //obj base
+			dataGridView1.Rows[0].Cells[3].Value = "n/a"; //type
+			dataGridView1.Rows[0].Cells[4].Value = "n/a"; //x
+			dataGridView1.Rows[0].Cells[5].Value = "n/a"; //y
+			dataGridView1.Rows[0].Cells[6].Value = "n/a"; //z
+
+
+			textBox2.Text = "0x" + clientConnection.ToString("X");
+			//textBox3.Text = "0x" + firstObject.ToString("X");
+			textBox4.Text = localPlayer.Guid.ToString();
             textBox6.Text = localPlayer.MaxHealth.ToString();
         }
 
@@ -113,9 +122,39 @@ namespace ObjectManager
 
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void splitter1_SplitterMoved(object sender, SplitterEventArgs e)
         {
 
         }
-    }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+		private void label6_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void textBox2_TextChanged(object sender, EventArgs e)
+		{
+
+		}
+
+		private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+		{
+
+		}
+	}
 }
